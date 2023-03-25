@@ -1,0 +1,67 @@
+.AccentColor {
+  background-color: AccentColor;
+}
+
+.AccentColorText {
+  background-color: AccentColorText;
+}
+
+.ActiveText {
+  background-color: ActiveText;
+}
+
+.ButtonBorder {
+  background-color: ButtonBorder;
+}
+
+.ButtonFace {
+  background-color: ButtonFace;
+}
+
+.ButtonText {
+  background-color: ButtonText;
+}
+
+.Canvas {
+  background-color: Canvas;
+}
+
+.CanvasText {
+  background-color: CanvasText;
+}
+
+.Field {
+  background-color: Field;
+}
+
+.FieldText {
+  background-color: FieldText;
+}
+
+.GrayText {
+  background-color: GrayText;
+}
+
+.Highlight {
+  background-color: Highlight;
+}
+
+.HighlightText {
+  background-color: HighlightText;
+}
+
+.LinkText {
+  background-color: LinkText;
+}
+
+.Mark {
+  background-color: Mark;
+}
+
+.MarkText {
+  background-color: MarkText;
+}
+
+.VisitedText {
+  background-color: VisitedText;
+}

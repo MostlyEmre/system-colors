@@ -1,2 +1,3 @@
 # system-colors
-A simple system colors visualizer for CSS.
+
+A simple CSS system colors visualizer.
